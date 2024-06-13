@@ -97,5 +97,7 @@ Este guia é apenas o início. Ele o convida a uma jornada de aprendizado e aper
 
 Fontes: 
 https://kubernetes.io
+
 https://cloudification.io/cloud-blog/kubernetes-anti-patterns-what-not-to-do/
+
 https://medium.com/@seifeddinerajhi/most-common-mistakes-to-avoid-when-using-kubernetes-anti-patterns-%EF%B8%8F-f4d37586528d
